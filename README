@@ -1,4 +1,6 @@
-A keymap for 41 keys which maps on to most standard keyboards.
+SUBSTAN41
+
+A keymap for 41 keys which maps on to a subset of most standard keyboards.
 
    ╭    ┌─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┐        ╮
    │    │ num │  q  │  w  │  e  │  r  │  t  │  y  │  u  │  i  │  o  │  p  │ tab │        │

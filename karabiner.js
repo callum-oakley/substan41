@@ -34,7 +34,7 @@ function map(from, to, opts) {
 }
 
 ({
-  description: "Callum's keymap",
+  description: "substan41",
   manipulators: [
     // fn
     map("u", "f1", { layer: "fn" }),
