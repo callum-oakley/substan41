@@ -81,6 +81,7 @@ function map(from, to, opts) {
     // right hand
     map("u", "volume_decrement", { layer: "num" }),
     map("i", "volume_increment", { layer: "num" }),
+    map("o", "play_or_pause", { layer: "num" }),
 
     map("j", "left_shift", { layer: "num" }),
     map("k", "left_option", { layer: "num" }),
