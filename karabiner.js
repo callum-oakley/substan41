@@ -115,7 +115,7 @@ function map(from, to, opts) {
     map("period", "semicolon", { layer: "nav" }),
     map("slash", "backslash", { layer: "nav" }),
 
-    // default -------------------------------------------------------------------------------------
+    // base ----------------------------------------------------------------------------------------
     map("caps_lock", { layer: "nav" }),
     map("left_control", { layer: "nav" }), // For HHKB
     map("open_bracket", "escape"),
